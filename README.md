@@ -182,7 +182,7 @@ This Sales Analysis Power BI Dashboard provides a comprehensive, interactive, an
 
 
 * snapshot of page1
-<img width="1314" height="734" alt="Image" src="https://github.com/user-attachments/assets/66b98e0b-cdbb-42ab-a4e1-ba568c2e0a34" />
+<img width="1314" height="734" alt="Image" src="https://github.com/user-attachments/assets/125cce29-a2f5-4c49-8549-1388f2f2fc19" />
 
 
 * snapshotof page 2
